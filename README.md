@@ -17,7 +17,7 @@ g++ client.cpp -lpthread -o client
 
 
 
-##PLAGIARISM REPORT
+## PLAGIARISM REPORT
 
 I certify that this assignment/report is my own work, based on my personal study and/or
 research and that I have acknowledged all material and sources used in its preparation, whether
