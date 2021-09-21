@@ -17,9 +17,9 @@ g++ client.cpp -lpthread -o client
 
 
 
-# PLAGIARISM REPORT
+PLAGIARISM REPORT
 
-certify that this assignment/report is my own work, based on my personal study and/or
+I certify that this assignment/report is my own work, based on my personal study and/or
 research and that I have acknowledged all material and sources used in its preparation, whether
 they be books, articles, reports, lecture notes, and any other kind of document, electronic or
 personal communication. I also certify that this assignment/report has not previously been
@@ -29,9 +29,6 @@ not copied in part or whole or otherwise plagiarised the work of other students 
 pledge to uphold the principles of honesty and responsibility at CSE@IITH. In addition, I
 understand my responsibility to report honour violations by other students if I become aware of
 it.
-
-```
 Name of the student: Pallavi Saxena
 Roll No: CS21MTECH11020
-```
 
