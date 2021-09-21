@@ -17,7 +17,7 @@ g++ client.cpp -lpthread -o client
 
 
 
-## PLAGIARISM REPORT
+# PLAGIARISM REPORT
 
 certify that this assignment/report is my own work, based on my personal study and/or
 research and that I have acknowledged all material and sources used in its preparation, whether
@@ -34,14 +34,4 @@ it.
 Name of the student: Pallavi Saxena
 Roll No: CS21MTECH11020
 ```
-3. To run the server application, use this command in the terminal :
-```
-./server
-```
 
-4. Now, open another terminal and use this command to run the client application :
-```
-./client
-```
-
-5. For opening multiple client applications, repeat step 4.
