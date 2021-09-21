@@ -1,22 +1,6 @@
 # TCP Group Chat
 
 A chatroom built in C++ using the concepts of socket programming and multi-threading. It supports chatting among multiple clients.
-1.Run the following commands in your terminal :
-```
-g++ server.cpp -lpthread -o server
-g++ client.cpp -lpthread -o client
-```
-2. To run the server application, use this command in the terminal :
-```
-./server
-```
-
-3. Now, open another terminal and use this command to run the client application :
-```
-./client
-
-
-
 ## PLAGIARISM REPORT
 
 I certify that this assignment/report is my own work, based on my personal study and/or
@@ -31,4 +15,19 @@ understand my responsibility to report honour violations by other students if I 
 it.
 Name of the student: Pallavi Saxena
 Roll No: CS21MTECH11020
+
+## COMMANDS
+1.Run the following commands in your terminal :
+```
+g++ server.cpp -lpthread -o server
+g++ client.cpp -lpthread -o client
+```
+2. To run the server application, use this command in the terminal :
+```
+./server
+```
+
+3. Now, open another terminal and use this command to run the client application :
+```
+./client
 
