@@ -11,13 +11,13 @@ g++ client.cpp -lpthread -o client
 ./server
 ```
 
-2. Now, open another terminal and use this command to run the client application :
+3. Now, open another terminal and use this command to run the client application :
 ```
 ./client
 
 
 
-PLAGIARISM REPORT
+##PLAGIARISM REPORT
 
 I certify that this assignment/report is my own work, based on my personal study and/or
 research and that I have acknowledged all material and sources used in its preparation, whether
